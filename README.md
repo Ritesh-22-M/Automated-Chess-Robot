@@ -1,11 +1,16 @@
+![Picture4](https://github.com/user-attachments/assets/52ee8435-5183-43ff-9375-14718ffc52d2)![Thumbnail](https://github.com/user-attachments/assets/aa278514-a3a9-47c5-ae83-7131bcdb0187)
+
 # 🧠♟️ Automated Chess Playing Robot using Raspberry Pi 🤖
 
-# 📽️ Project Video :- 
+# 📽️ Project Video :
 
 # 📌 Introduction
 This project presents the design and implementation of an Automated Chess Playing Robot that uses Raspberry Pi, a webcam, and a 6-DOF robotic arm to play real-time chess against a human opponent. The system captures the physical chessboard using computer vision (OpenCV), processes the board state, determines the best move using the Stockfish chess engine, and physically moves the chess pieces using servo motors with precise coordination.
 
 This interactive robot is not only entertaining but also serves as an educational platform for understanding robotics, AI, computer vision, and IoT.
+
+# Project Preview
+![Picture2](https://github.com/user-attachments/assets/4d62e7d0-c697-4c9f-b0cf-a364696a89bf)
 
 # ✅ Features
 **♟️Fully Automated Gameplay** – Real-time move analysis and execution on a physical board
@@ -23,6 +28,10 @@ This interactive robot is not only entertaining but also serves as an educationa
 **📝Modular Design -** Easily upgradable with ML-based detection or voice controls
 
 **🔁Educational Value -** Demonstrates real-world applications of embedded systems, robotics, and vision systems
+
+# Circuit Diagram
+<img width="934" height="471" alt="Picture1" src="https://github.com/user-attachments/assets/4e57ed02-aafa-434b-bf86-39c94ac5d727" />
+
 
 # 🔩 Hardware Requirements
 | Component          | Specification           |
@@ -86,6 +95,10 @@ Loop Until Checkmate or Game End
 **Automation** – Minimal human intervention needed during gameplay
 
 # 📸 Result Highlights
+![Picture3](https://github.com/user-attachments/assets/b29658f8-48d2-451a-b855-756fb69bdcce)
+![Picture4](https://github.com/user-attachments/assets/0e803aba-b13a-46de-90b3-913a801a9b07)
+![Picture5](https://github.com/user-attachments/assets/f0a256d3-b977-462a-b22e-0164313b2f86)
+![Picture6](https://github.com/user-attachments/assets/63fffff6-edf3-4a56-baa8-feda707cb00e)
 
 # 👥 Project Team
 Ritesh Mohanty
