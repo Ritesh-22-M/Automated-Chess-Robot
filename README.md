@@ -1,4 +1,4 @@
-![Picture4](https://github.com/user-attachments/assets/52ee8435-5183-43ff-9375-14718ffc52d2)![Thumbnail](https://github.com/user-attachments/assets/aa278514-a3a9-47c5-ae83-7131bcdb0187)
+![Picture1](https://github.com/user-attachments/assets/9275dc87-a7f5-4fa6-b179-15ec3791937e)![Picture1](https://github.com/user-attachments/assets/1aa8ed08-1fe0-43ec-84d8-9bd5fadb2740)![Picture1](https://github.com/user-attachments/assets/c9d9d110-f0ac-4754-8080-bf0d66da092e)![Picture1](https://github.com/user-attachments/assets/399d3a16-987a-430a-8a53-21929c46c2c7)[Thumbnail](https://github.com/user-attachments/assets/aa278514-a3a9-47c5-ae83-7131bcdb0187)
 
 # 🧠♟️ Automated Chess Playing Robot using Raspberry Pi 🤖
 
@@ -10,7 +10,7 @@ This project presents the design and implementation of an Automated Chess Playin
 This interactive robot is not only entertaining but also serves as an educational platform for understanding robotics, AI, computer vision, and IoT.
 
 # Project Preview
-![Picture2](https://github.com/user-attachments/assets/4d62e7d0-c697-4c9f-b0cf-a364696a89bf)
+!![Picture3](https://github.com/user-attachments/assets/89a20ced-205f-4df8-90e7-a6701fadacd2)
 
 # ✅ Features
 **♟️Fully Automated Gameplay** – Real-time move analysis and execution on a physical board
@@ -95,10 +95,21 @@ Loop Until Checkmate or Game End
 **Automation** – Minimal human intervention needed during gameplay
 
 # 📸 Result Highlights
+**Physical Prototypes**
 ![Picture3](https://github.com/user-attachments/assets/b29658f8-48d2-451a-b855-756fb69bdcce)
 ![Picture4](https://github.com/user-attachments/assets/0e803aba-b13a-46de-90b3-913a801a9b07)
+![Picture2](https://github.com/user-attachments/assets/24560227-94fb-4cd1-9fae-926bee6ea6ce)
 ![Picture5](https://github.com/user-attachments/assets/f0a256d3-b977-462a-b22e-0164313b2f86)
-![Picture6](https://github.com/user-attachments/assets/63fffff6-edf3-4a56-baa8-feda707cb00e)
+![Picture1](https://github.com/user-attachments/assets/defcc8d4-71c6-4464-998e-b9eda9b7911f)
+
+**GUI**
+![Picture1](https://github.com/user-attachments/assets/ed686caf-a273-454d-a960-c7f7e4b61d81)
+![Picture2](https://github.com/user-attachments/assets/b4042bff-c5db-44fc-9f82-aea707487266)
+![Picture3](https://github.com/user-attachments/assets/6a879a63-3535-435e-a112-ba9f1ed6c7fd)
+<img width="318" height="415" alt="Picture4" src="https://github.com/user-attachments/assets/ad89e788-91a2-479d-b2c5-d7b7aa9527c7" />
+<img width="407" height="310" alt="Picture5" src="https://github.com/user-attachments/assets/39eddb05-d62a-4308-8091-cb79864b82fa" />
+
+
 
 # 👥 Project Team
 Ritesh Mohanty
