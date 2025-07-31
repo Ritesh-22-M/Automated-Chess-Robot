@@ -8,21 +8,21 @@ This project presents the design and implementation of an Automated Chess Playin
 This interactive robot is not only entertaining but also serves as an educational platform for understanding robotics, AI, computer vision, and IoT.
 
 # ✅ Features
-♟️Fully Automated Gameplay – Real-time move analysis and execution on a physical board
+**♟️Fully Automated Gameplay** – Real-time move analysis and execution on a physical board
 
-📷Computer Vision – OpenCV used to detect piece positions on the board
+**📷Computer Vision** – OpenCV used to detect piece positions on the board
 
-🧠Stockfish Chess Engine – Calculates best moves dynamically using AI
+**🧠Stockfish Chess Engine** – Calculates best moves dynamically using AI
 
-🤖Robotic Arm Control – 6 Servo Motors simulate human-like movement
+**🤖Robotic Arm Control** – 6 Servo Motors simulate human-like movement
 
-🧩Raspberry Pi Powered – Compact, efficient, and cost-effective control unit
+**🧩Raspberry Pi Powered** – Compact, efficient, and cost-effective control unit
 
-🎮User-Friendly GUI – Built with Tkinter for manual input and move visualization
+**🎮User-Friendly GUI** – Built with Tkinter for manual input and move visualization
 
-📝Modular Design – Easily upgradable with ML-based detection or voice controls
+**📝Modular Design** – Easily upgradable with ML-based detection or voice controls
 
-🔁Educational Value – Demonstrates real-world applications of embedded systems, robotics, and vision systems
+**🔁Educational Value** – Demonstrates real-world applications of embedded systems, robotics, and vision systems
 
 # 🔩 Hardware Requirements
 | Component          | Specification           |
@@ -37,7 +37,7 @@ This interactive robot is not only entertaining but also serves as an educationa
 # 💻 Software & Tools
 Language: Python 3
 
-Libraries & Frameworks:
+**Libraries & Frameworks:**
 
 OpenCV – Image processing
 
@@ -75,15 +75,15 @@ Robotic Arm Executes Move
 Loop Until Checkmate or Game End
 
 # 🧠 Technologies Used
-IoT & Embedded Systems – Raspberry Pi, GPIO communication
+**IoT & Embedded Systems** – Raspberry Pi, GPIO communication
 
-Artificial Intelligence – Chess decision logic via Stockfish
+**Artificial Intelligence** – Chess decision logic via Stockfish
 
-Computer Vision – Real-time piece detection with OpenCV
+**Computer Vision** – Real-time piece detection with OpenCV
 
-Robotics – Pick-and-place execution using robotic arm
+**Robotics** – Pick-and-place execution using robotic arm
 
-Automation – Minimal human intervention needed during gameplay
+**Automation** – Minimal human intervention needed during gameplay
 
 # 📸 Result Highlights
 
