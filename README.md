@@ -9,12 +9,19 @@ This interactive robot is not only entertaining but also serves as an educationa
 
 # ✅ Features
 Fully Automated Gameplay – Real-time move analysis and execution on a physical board
+
 Computer Vision – OpenCV used to detect piece positions on the board
+
 Stockfish Chess Engine – Calculates best moves dynamically using AI
+
 Robotic Arm Control – 6 Servo Motors simulate human-like movement
+
 Raspberry Pi Powered – Compact, efficient, and cost-effective control unit
+
 User-Friendly GUI – Built with Tkinter for manual input and move visualization
+
 Modular Design – Easily upgradable with ML-based detection or voice controls
+
 Educational Value – Demonstrates real-world applications of embedded systems, robotics, and vision systems
 
 # 🔩 Hardware Requirements
@@ -29,32 +36,53 @@ Educational Value – Demonstrates real-world applications of embedded systems, 
 
 # 💻 Software & Tools
 Language: Python 3
+
 Libraries & Frameworks:
+
 OpenCV – Image processing
+
 python-chess – Board state management
+
 Stockfish – Move computation
+
 NumPy, GPIOZero, pigpio – Servo and logic control
+
 Tkinter – GUI interface
+
 Platform: Raspbian OS (on Raspberry Pi)
+
 IDE: Thonny / VS Code
+
 Other Tools: JSON for square-to-angle mapping
 
 # 🔄 System Flow
 Start New Game via GUI
+
 Camera Calibrates to Empty Board
+
 User Places Pieces and Selects Quadrants
+
 Webcam Captures Moves
+
 OpenCV Detects Current Positions
+
 Stockfish Computes Best Move
+
 Raspberry Pi Translates Move into Servo Coordinates
+
 Robotic Arm Executes Move
+
 Loop Until Checkmate or Game End
 
 # 🧠 Technologies Used
 IoT & Embedded Systems – Raspberry Pi, GPIO communication
+
 Artificial Intelligence – Chess decision logic via Stockfish
+
 Computer Vision – Real-time piece detection with OpenCV
+
 Robotics – Pick-and-place execution using robotic arm
+
 Automation – Minimal human intervention needed during gameplay
 
 # 📸 Result Highlights
@@ -72,7 +100,11 @@ Nikhilesh Kumar Mohanta, Sanjay Panigrahy, Aryan Mohanty, Nandita Satapathy, Nya
 
 # 🔮 Future Enhancements
 ML-based advanced piece recognition
+
 Touch-sensitive chessboard or magnetic feedback
+
 Remote gameplay over cloud (via MQTT/HTTP dashboard)
+
 Voice command or mobile app integration
+
 Learning from previous games using data analytics
