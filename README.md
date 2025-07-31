@@ -35,25 +35,25 @@ This interactive robot is not only entertaining but also serves as an educationa
 | Chessboard         | Standard 8x8 board      |
 
 # 💻 Software & Tools
-Language: Python 3
+**Language**: Python 3
 
 **Libraries & Frameworks:**
 
-OpenCV – Image processing
+**OpenCV** – Image processing
 
-python-chess – Board state management
+**python-chess** – Board state management
 
-Stockfish – Move computation
+**Stockfish** – Move computation
 
-NumPy, GPIOZero, pigpio – Servo and logic control
+**NumPy, GPIOZero, pigpio** – Servo and logic control
 
-Tkinter – GUI interface
+**Tkinter** – GUI interface
 
-Platform: Raspbian OS (on Raspberry Pi)
+**Platform:** Raspbian OS (on Raspberry Pi)
 
-IDE: Thonny / VS Code
+**IDE:** Thonny / VS Code
 
-Other Tools: JSON for square-to-angle mapping
+**Other Tools:** JSON for square-to-angle mapping
 
 # 🔄 System Flow
 Start New Game via GUI
