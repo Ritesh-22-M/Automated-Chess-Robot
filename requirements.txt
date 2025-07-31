@@ -1,0 +1,10 @@
+numpy==1.22.0
+opencv-python
+python-chess==0.30.1
+gpiozero
+RPi.GPIO
+pigpio
+Pillow
+art
+imutils
+ultralytics   # (Optional – only if using YOLOv8 for object detection)

@@ -1,0 +1,1 @@
+{"baseradius": 2.0, "cbFrame": 10.2, "sqSize": 1.27, "cbHeight": 0.01, "pieceHeight": 2.1}
