@@ -10,7 +10,7 @@ This project presents the design and implementation of an Automated Chess Playin
 This interactive robot is not only entertaining but also serves as an educational platform for understanding robotics, AI, computer vision, and IoT.
 
 # Project Preview
-![Picture3](https://github.com/user-attachments/assets/89a20ced-205f-4df8-90e7-a6701fadacd2)
+<img src="https://github.com/user-attachments/assets/89a20ced-205f-4df8-90e7-a6701fadacd2" width="400" />
 
 # ✅ Features
 **♟️Fully Automated Gameplay** – Real-time move analysis and execution on a physical board
