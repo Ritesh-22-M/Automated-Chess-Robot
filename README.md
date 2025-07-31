@@ -125,25 +125,27 @@ Loop Until Checkmate or Game End
 
 
 # 👥 Project Team
-Ritesh Mohanty
+### Ritesh Mohanty 
+(riteshmohanty2003@gmail.com)
 
-Email: riteshmohanty2003@gmail.com
+Linkedln - https://www.linkedin.com/in/ritesh-mohanty-65b614210/
 
-LinkedIn | GitHub
+GitHub - https://github.com/Ritesh-22-M
 
-Jyotismita Nath
+### Jyotismita Nath 
+(joytismitanath2003@gmail.com)
 
-Email: joytismitanath2003@gmail.com
+Linkedln - https://www.linkedin.com/in/jyotismita-nath-926541316/
 
-LinkedIn | GitHub
+GitHub - https://github.com/Jyotismita-15
 
-Nikhilesh Kumar Mohanta
+### Nikhilesh Kumar Mohanta
 
-Sanjay Panigrahy 
+### Sanjay Panigrahy 
 
-Aryan Mohanty
+### Aryan Mohanty
 
-Nyayabrat Choudhury
+### Nyayabrat Choudhury
 
 # 🔮 Future Enhancements
 ML-based advanced piece recognition
