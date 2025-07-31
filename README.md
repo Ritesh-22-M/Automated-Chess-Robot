@@ -100,10 +100,11 @@ Loop Until Checkmate or Game End
 
 ![Picture3](https://github.com/user-attachments/assets/b29658f8-48d2-451a-b855-756fb69bdcce)
 ![Picture5](https://github.com/user-attachments/assets/f0a256d3-b977-462a-b22e-0164313b2f86)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/32f1ea50-5429-4b3d-990c-cf004068fe47" height="220" style="margin-right: 15px;" />
-  <img src="https://github.com/user-attachments/assets/918ee299-94ae-4fd9-a53b-66def1f5b436" height="220" />
-</p>
+<div>
+  <img src="https://github.com/user-attachments/assets/32f1ea50-5429-4b3d-990c-cf004068fe47" height="300" style="margin-right: 25px;" />
+  <img src="https://github.com/user-attachments/assets/918ee299-94ae-4fd9-a53b-66def1f5b436" height="300" />
+</div>
+
 
 
 
