@@ -100,23 +100,23 @@ Loop Until Checkmate or Game End
 
 ![Picture3](https://github.com/user-attachments/assets/b29658f8-48d2-451a-b855-756fb69bdcce)
 ![Picture5](https://github.com/user-attachments/assets/f0a256d3-b977-462a-b22e-0164313b2f86)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/defcc8d4-71c6-4464-998e-b9eda9b7911f" width="420" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/0117b29b-5c9c-4a00-a42b-d885379d1a81" width="420" />
-</p>
+![Picture1](https://github.com/user-attachments/assets/32f1ea50-5429-4b3d-990c-cf004068fe47)
+![Picture31](https://github.com/user-attachments/assets/918ee299-94ae-4fd9-a53b-66def1f5b436)
+
 
 <h3 align="center">🖥️ GUI</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed686caf-a273-454d-a960-c7f7e4b61d81" width="280" style="margin: 8px;" />
-  <img src="https://github.com/user-attachments/assets/b4042bff-c5db-44fc-9f82-aea707487266" width="280" style="margin: 8px;" />
-  <img src="https://github.com/user-attachments/assets/6a879a63-3535-435e-a112-ba9f1ed6c7fd" width="280" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/ed686caf-a273-454d-a960-c7f7e4b61d81" height="200" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/b4042bff-c5db-44fc-9f82-aea707487266" height="200" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/6a879a63-3535-435e-a112-ba9f1ed6c7fd" height="200" style="margin: 8px;" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab06eeb4-f267-4877-8459-18fece2bbda8" width="280" style="margin: 8px;" />
-  <img src="https://github.com/user-attachments/assets/16babb6f-343d-477b-87a0-ca9ca2fff52a" width="280" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/ab06eeb4-f267-4877-8459-18fece2bbda8" height="200" style="margin: 8px;" />
+  <img src="https://github.com/user-attachments/assets/16babb6f-343d-477b-87a0-ca9ca2fff52a" height="200" style="margin: 8px;" />
 </p>
+
 
 
 
