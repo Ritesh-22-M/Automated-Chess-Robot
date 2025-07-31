@@ -1,4 +1,4 @@
-![Picture1](https://github.com/user-attachments/assets/9275dc87-a7f5-4fa6-b179-15ec3791937e)![Picture1](https://github.com/user-attachments/assets/1aa8ed08-1fe0-43ec-84d8-9bd5fadb2740)![Picture1](https://github.com/user-attachments/assets/c9d9d110-f0ac-4754-8080-bf0d66da092e)![Picture1](https://github.com/user-attachments/assets/399d3a16-987a-430a-8a53-21929c46c2c7)[Thumbnail](https://github.com/user-attachments/assets/aa278514-a3a9-47c5-ae83-7131bcdb0187)
+[Thumbnail](https://github.com/user-attachments/assets/aa278514-a3a9-47c5-ae83-7131bcdb0187)
 
 # 🧠♟️ Automated Chess Playing Robot using Raspberry Pi 🤖
 
