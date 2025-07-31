@@ -99,8 +99,6 @@ Loop Until Checkmate or Game End
 **Physical Prototypes**
 
 ![Picture3](https://github.com/user-attachments/assets/b29658f8-48d2-451a-b855-756fb69bdcce)
-![Picture4](https://github.com/user-attachments/assets/0e803aba-b13a-46de-90b3-913a801a9b07)
-![Picture2](https://github.com/user-attachments/assets/24560227-94fb-4cd1-9fae-926bee6ea6ce)
 ![Picture5](https://github.com/user-attachments/assets/f0a256d3-b977-462a-b22e-0164313b2f86)
 ![Picture1](https://github.com/user-attachments/assets/defcc8d4-71c6-4464-998e-b9eda9b7911f)
 
