@@ -2,7 +2,8 @@
 
 # 🧠♟️ Automated Chess Playing Robot using Raspberry Pi 🤖
 
-# 📽️ Project Video : https://drive.google.com/file/d/15AdzEQmLUQp8F0xZEXP_7i4exJ4CMAw7/view?usp=drive_link
+# 📽️ Project Video : 
+https://drive.google.com/file/d/15AdzEQmLUQp8F0xZEXP_7i4exJ4CMAw7/view?usp=drive_link
 
 # 📌 Introduction
 This project presents the design and implementation of an Automated Chess Playing Robot that uses Raspberry Pi, a webcam, and a 6-DOF robotic arm to play real-time chess against a human opponent. The system captures the physical chessboard using computer vision (OpenCV), processes the board state, determines the best move using the Stockfish chess engine, and physically moves the chess pieces using servo motors with precise coordination.
